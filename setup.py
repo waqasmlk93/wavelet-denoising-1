@@ -47,7 +47,7 @@ setup(
     classifiers=classifiers,
     install_requires=[
         "numpy",
-        "PyWavelets==0.5.2",
+        "PyWavelets",
     ],
     version='0.1.0',
     packages=packages
